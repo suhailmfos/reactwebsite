@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/reactwebsite/static/css/main.9ad3139c.chunk.css",
+    "main.js": "/reactwebsite/static/js/main.d3d37440.chunk.js",
+    "main.js.map": "/reactwebsite/static/js/main.d3d37440.chunk.js.map",
+    "runtime-main.js": "/reactwebsite/static/js/runtime-main.550384f0.js",
+    "runtime-main.js.map": "/reactwebsite/static/js/runtime-main.550384f0.js.map",
+    "static/css/2.b9b989d7.chunk.css": "/reactwebsite/static/css/2.b9b989d7.chunk.css",
+    "static/js/2.85fca2a6.chunk.js": "/reactwebsite/static/js/2.85fca2a6.chunk.js",
+    "static/js/2.85fca2a6.chunk.js.map": "/reactwebsite/static/js/2.85fca2a6.chunk.js.map",
+    "index.html": "/reactwebsite/index.html",
+    "static/css/2.b9b989d7.chunk.css.map": "/reactwebsite/static/css/2.b9b989d7.chunk.css.map",
+    "static/css/main.9ad3139c.chunk.css.map": "/reactwebsite/static/css/main.9ad3139c.chunk.css.map",
+    "static/js/2.85fca2a6.chunk.js.LICENSE.txt": "/reactwebsite/static/js/2.85fca2a6.chunk.js.LICENSE.txt",
+    "static/media/chambal.d2964b3a.jpg": "/reactwebsite/static/media/chambal.d2964b3a.jpg",
+    "static/media/digital.beaac27e.jpg": "/reactwebsite/static/media/digital.beaac27e.jpg",
+    "static/media/software.698ed90b.png": "/reactwebsite/static/media/software.698ed90b.png",
+    "static/media/spaceX.32b423d2.jpg": "/reactwebsite/static/media/spaceX.32b423d2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.550384f0.js",
+    "static/css/2.b9b989d7.chunk.css",
+    "static/js/2.85fca2a6.chunk.js",
+    "static/css/main.9ad3139c.chunk.css",
+    "static/js/main.d3d37440.chunk.js"
+  ]
+}

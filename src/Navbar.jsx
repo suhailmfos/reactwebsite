@@ -8,7 +8,7 @@ const Navbar = () => {
                 <div className="row">
                     <div className="col-10 mx-auto">
                         <nav className="navbar navbar-expand-lg navbar-light bg-light">
-                            <NavLink activeClassName='menu_active' className="navbar-brand" to="#">SUHAIL TECHNICAL
+                            <NavLink activeClassName='menu_active' className="navbar-brand" to="/">SUHAIL TECHNICAL
                             </NavLink>
                             <button className="navbar-toggler" type="button" data-toggle="collapse" 
                                 data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
